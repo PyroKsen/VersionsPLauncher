@@ -1,2 +1,2 @@
-Barotrauma: 2132
-LethalCompany: 492
+Barotrauma: 1
+LethalCompany: 1
