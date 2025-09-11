@@ -1,4 +1,2 @@
-a: 2132
-b: 492
-c: 3232
-d: 21523
+Barotrauma: 2132
+LethalCompany: 492
