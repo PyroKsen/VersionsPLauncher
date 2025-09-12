@@ -1,2 +1,2 @@
-Barotrauma: 1
+Barotrauma: 2
 LethalCompany: 1
