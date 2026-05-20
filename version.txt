@@ -14,7 +14,7 @@
     },
     "SlayTheSpire2": {
       "version": "1",
-      "downloadUrl": "https://example.com/slay-the-spire-2.zip",
+      "downloadUrl": "https://www.googleapis.com/drive/v3/files/10EIWlnFjlC8zcHb5EtZ85Ie9pEmLuwsd?alt=media&key=AIzaSyCE02eSYkH19BNQQJF797DGu3eIpqwl7tc",
       "dirName": "Slay The Spire 2",
       "exeName": "SlayTheSpire2.exe"
     }
