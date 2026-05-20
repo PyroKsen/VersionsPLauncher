@@ -1,2 +1,22 @@
-Barotrauma: 2
-LethalCompany: 1
+{
+  "games": {
+    "Barotrauma": {
+      "version": "2",
+      "downloadUrl": "https://www.googleapis.com/drive/v3/files/1xobaAk4lxCGvNYo61qSU9YxWi5uDbqZs?alt=media&key=AIzaSyDfECQYvW78rYESsoie9KUto8uzRtAaIO8",
+      "dirName": "Barotrauma",
+      "exeName": "Barotrauma.exe"
+    },
+    "LethalCompany": {
+      "version": "1",
+      "downloadUrl": "https://example.com/lethal-company.zip",
+      "dirName": "LethalCompany",
+      "exeName": "Lethal Company.exe"
+    },
+    "SlayTheSpire2": {
+      "version": "1",
+      "downloadUrl": "https://example.com/slay-the-spire-2.zip",
+      "dirName": "Slay The Spire 2",
+      "exeName": "SlayTheSpire2.exe"
+    }
+  }
+}
