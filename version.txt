@@ -8,7 +8,7 @@
     },
     "LethalCompany": {
       "version": "2",
-      "downloadUrl": "",
+      "downloadUrl": "https://www.googleapis.com/drive/v3/files/1brNq-Yd4-6Llp5rQe9zNmkpFsFsie_mB?alt=media&key=AIzaSyAhUhfXyqfISARo66h9Jq5N_rAO93kmkkY",
       "dirName": "LethalCompany",
       "exeName": "Lethal Company.exe"
     },
