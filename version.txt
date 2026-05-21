@@ -7,7 +7,7 @@
       "exeName": "Barotrauma.exe"
     },
     "LethalCompany": {
-      "version": "1",
+      "version": "2",
       "downloadUrl": "",
       "dirName": "LethalCompany",
       "exeName": "Lethal Company.exe"
