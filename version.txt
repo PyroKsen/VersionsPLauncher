@@ -19,7 +19,7 @@
       "exeName": "SlayTheSpire2.exe"
     },
     "CasualtiesUnknown": {
-      "version": "1",
+      "version": "2",
       "downloadUrl": "https://www.googleapis.com/drive/v3/files/1H3f_XfS6KujZEfqCsXb30AnaJ8CgIQtD?alt=media&key=AIzaSyDfECQYvW78rYESsoie9KUto8uzRtAaIO8",
       "dirName": "Casualties Unknown",
       "exeName": "CasualtiesUnknown.exe"
