@@ -29,7 +29,7 @@
       "exeName": "CasualtiesUnknown.exe"
     },
     "RiskOfRain2": {
-      "version": "3",
+      "version": "2",
       "downloadUrl": "https://www.googleapis.com/drive/v3/files/1wyK2L7ljYddfLAEl4RyI7k9EEjSMOiux?alt=media&key=AIzaSyDfECQYvW78rYESsoie9KUto8uzRtAaIO8",
       "dirName": "Risk of Rain 2",
       "exeName": "Risk of Rain 2.exe",
