@@ -13,7 +13,7 @@
       "exeName": "Lethal Company.exe"
     },
     "SlayTheSpire2": {
-      "version": "7",
+      "version": "8",
       "downloadUrl": "https://www.googleapis.com/drive/v3/files/1IRlhZEUVJy_CVsulnar3f3Oltp8CdgIw?alt=media&key=AIzaSyDfECQYvW78rYESsoie9KUto8uzRtAaIO8",
       "dirName": "Slay The Spire 2",
       "exeName": "SlayTheSpire2.exe",
