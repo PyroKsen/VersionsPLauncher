@@ -13,14 +13,10 @@
       "exeName": "Lethal Company.exe"
     },
     "SlayTheSpire2": {
-      "version": "8",
+      "version": "9",
       "downloadUrl": "https://www.googleapis.com/drive/v3/files/1IRlhZEUVJy_CVsulnar3f3Oltp8CdgIw?alt=media&key=AIzaSyDfECQYvW78rYESsoie9KUto8uzRtAaIO8",
       "dirName": "Slay The Spire 2",
-      "exeName": "SlayTheSpire2.exe",
-      "backup": {
-        "version": "7",
-        "downloadUrl": "https://www.googleapis.com/drive/v3/files/1ODcpKEbq7qsxaVWZsbbSQ4OpB6u9QPxZ?alt=media&key=AIzaSyBS_0T_hmYV7ZC54afBqBkWu98vujQSmWQ"
-      }
+      "exeName": "SlayTheSpire2.exe"
     },
     "CasualtiesUnknown": {
       "version": "3",
@@ -32,11 +28,7 @@
       "version": "2",
       "downloadUrl": "https://www.googleapis.com/drive/v3/files/1wyK2L7ljYddfLAEl4RyI7k9EEjSMOiux?alt=media&key=AIzaSyDfECQYvW78rYESsoie9KUto8uzRtAaIO8",
       "dirName": "Risk of Rain 2",
-      "exeName": "Risk of Rain 2.exe",
-      "backup": {
-        "version": "2",
-        "downloadUrl": "https://www.googleapis.com/drive/v3/files/1wnRnEu8ALRyUkm77BUv_KwO-Da5zMMmE?alt=media&key=AIzaSyBS_0T_hmYV7ZC54afBqBkWu98vujQSmWQ"
-      }
+      "exeName": "Risk of Rain 2.exe"
     }
   }
 }
